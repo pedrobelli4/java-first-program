@@ -9,10 +9,11 @@ public class App
     public static void main( String[] args )
 
     {
-        System.out.println( "Hello World!" );
+        System.out.println("Hello world!");
     }
 
     public static int doubleTheNumber(int number) {
+
         return 2 * number;
     }
 
